@@ -29,7 +29,7 @@ if __name__ == '__main__':
     #print(arg)
     #display_info(arg[1], arg[2])
     
-    parser =argparse.ArgumentParser(prog='Shot Info',
+    parser = argparse.ArgumentParser(prog='Shot Info',
                                     usage='''
                                     Usage:
                                     Pass shots data in json format
