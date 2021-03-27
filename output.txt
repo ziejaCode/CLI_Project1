@@ -1,0 +1,10 @@
+total 36
+drwxrwxr-x 6 marty marty 4096 Mar 26 12:58 .
+drwxrwxr-x 7 marty marty 4096 Mar 26 11:22 ..
+drwxrwxr-x 8 marty marty 4096 Mar 26 11:22 .git
+drwxrwxr-x 2 marty marty 4096 Mar 26 12:32 .ipynb_checkpoints
+drwxrwxr-x 2 marty marty 4096 Mar 26 11:22 No1
+-rw-rw-r-- 1 marty marty    0 Mar 26 13:02 output.txt
+drwxrwxr-x 2 marty marty 4096 Mar 26 11:22 SubprocessModule
+-rw-rw-r-- 1 marty marty 4289 Mar 26 13:02 subprocess_practice.ipynb
+-rw-rw-r-- 1 marty marty   50 Mar 26 12:59 test.txt

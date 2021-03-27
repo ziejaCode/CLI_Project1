@@ -1,9 +1,9 @@
 import subprocess
 
-#subprocess.run('dir', shell=True)
+#subprocess.run(['ls', '-la'])
 
-p1 = subprocess.run('dir', shell=True)
+p1 = subprocess.run(['ls','-la'])
 
-print(p1)
+print(p1.stdout)
 
 
