@@ -1,7 +1,6 @@
 import argparse
 
 def main():
-    """Simple CLI with argparse"""
     print("heloo")
 
 
