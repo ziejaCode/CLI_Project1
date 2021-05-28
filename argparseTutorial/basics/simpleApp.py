@@ -1,9 +1,8 @@
 import argparse
 
-def main():
-    """Simple CLI with argparse"""
-    print("heloo")
 
+def main():
+    print("heloo")
 
 
 if __name__=='__main__':
